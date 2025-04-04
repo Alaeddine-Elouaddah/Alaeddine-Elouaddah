@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Alaeddine Elouaddah**!
 
-🎓 Computer Engineering Student at EST Sidi Bennour  
+🎓 Student at EST Sidi Bennour  
 💻 Passionate Full-Stack Developer (MERN Stack)  
 🚗 Currently working on a Vehicle Rental Management System  
 📍 Based in Morocco  
@@ -19,8 +19,14 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
+### Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -45,8 +51,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alaeddine's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -62,16 +68,16 @@ A full-stack application built with MERN stack for managing vehicle rentals with
 
 ### University Projects
 - Java applications for OOP concepts
-- C programs for system programming
+- C/C++ programs for system programming
 - PHP/MySQL web applications
 
 ---
 
 ## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaeddine-elouaddah-8a1058348/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaeddineelouaddah09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alaeddine-Elouaddah)
 
 ---
 
