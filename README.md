@@ -1,83 +1,80 @@
-# 👋 Salut, moi c’est **Alaeddine Elouaddah** !
+# 👋 Hello, I'm **Alaeddine Elouaddah**!
 
-🎓 Étudiant en DUT Génie Informatique à EST Sidi Bennour  
-💻 Passionné par le développement web (Stack MERN)  
-🚗 Projet actuel : Application de gestion de location de véhicules  
-📫 Contact : alaeddineelouaddah09@gmail.com  
-
----
-
-<h1 align="center">Hi 👋, I'm Alaeddine Elouaddah</h1>
-<h3 align="center">A passionate full-stack developer from Morocco 🇲🇦</h3>
+🎓 Computer Engineering Student at EST Sidi Bennour  
+💻 Passionate Full-Stack Developer (MERN Stack)  
+🚗 Currently working on a Vehicle Rental Management System  
+📍 Based in Morocco  
+📫 How to reach me: [alaeddineelouaddah09@gmail.com](mailto:alaeddineelouaddah09@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alaeddine-elouaddah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 🌐 Connect with me  
-<!-- Tu peux ajouter des liens vers tes réseaux (LinkedIn, Portfolio, etc.) ici -->
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <a href="https://github.com/Alaeddine-Elouaddah?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Alaeddine-Elouaddah?color=green&logo=github">
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <a href="https://github.com/Alaeddine-Elouaddah/">
+    <img src="https://komarev.com/ghpvc/?username=Alaeddine-Elouaddah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alaeddine's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaeddine-Elouaddah&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 Projets récents
+## 🚀 Featured Projects
 
-- 🔧 **Application de gestion de location de véhicules** (React + Node.js + MongoDB)  
-- 🧪 Travaux pratiques en Java, C, PHP, etc.
+### Vehicle Rental Management System
+A full-stack application built with MERN stack for managing vehicle rentals with admin dashboard and user portal.
+
+### University Projects
+- Java applications for OOP concepts
+- C programs for system programming
+- PHP/MySQL web applications
 
 ---
 
-Merci d’avoir visité mon profil ! N'hésite pas à me contacter pour échanger ou collaborer 🙌
+## 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaeddineelouaddah09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alaeddine-Elouaddah&theme=radical&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+</p>
