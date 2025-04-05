@@ -16,7 +16,7 @@
 
 I love building useful applications, solving real-world problems, and learning new technologies every day.  
 I believe in **curiosity**, **practice**, and **sharing** to grow as a developer.  
-Every line of code brings me closer to my dreams 💡
+
 
 ---
 
