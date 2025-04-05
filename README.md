@@ -19,14 +19,6 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 
 ---
 
-## 🎯 Currently Learning
-
-- TypeScript
-- Angular
-- Clean Code & Architecture
-- Docker and Deployment
-
----
 
 ## 🌟 Featured Projects
 
