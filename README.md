@@ -69,18 +69,21 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
+  
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=Alaeddine-Elouaddah&theme=tokyonight" alt="GitHub Streak"/>
+  
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true" />
-</div>
-
----
 
 ## 📊 Profile Insights
 
@@ -91,19 +94,7 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 </p>
 
 ---
-## 📈 GitHub Analytics
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Alaeddine-Elouaddah&theme=tokyonight)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true&area=true)
-</div>
-
----
 
 ## 🌐 Connect With Me
 
