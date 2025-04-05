@@ -91,6 +91,19 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 </p>
 
 ---
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Alaeddine-Elouaddah&theme=tokyonight)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true&area=true)
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
