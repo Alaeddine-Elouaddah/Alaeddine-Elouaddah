@@ -1,69 +1,82 @@
-# 👋 Hello, I'm **Alaeddine Elouaddah**!
+# 👋 Salut, je suis **Alaeddine Elouaddah**!
 
-🎓 Student at EST Sidi Bennour  
-💻 Passionate Full-Stack Developer (MERN Stack)  
-🚗 Currently working on a Vehicle Rental Management System  
-📍 Based in Morocco  
-📫 How to reach me: [alaeddineelouaddah09@gmail.com](mailto:alaeddineelouaddah09@gmail.com)
+🎓 Étudiant à l'EST Sidi Bennour  
+💻 Développeur Full-Stack passionné (MERN Stack)  
+🚗 En pleine création d'une application de gestion de location de véhicules  
+📍 Maroc  
+📫 Contactez-moi : [alaeddineelouaddah09@gmail.com](mailto:alaeddineelouaddah09@gmail.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Software+Craftsman;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Objectif de carrière
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Je vise à devenir un **ingénieur logiciel expert en MERN Stack**, capable de créer des applications performantes, sécurisées et scalables. Je crois au **code propre, à l'impact utilisateur**, et à l'amélioration continue.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Stack Technique
+
+### 🧠 Langages de programmation
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+
+### 🌐 Frontend
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### 🖥 Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+
+### 💾 Bases de données
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### ⚙️ Outils
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+
+---
+
+## 📈 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=nightowl&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Me retrouver
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alaeddine-elouaddah-8a1058348/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:alaeddineelouaddah09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  <a href="https://github.com/Alaeddine-Elouaddah">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Alaeddine-Elouaddah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 </div>
+
+---
+
+> 🚀 *"Construire des projets, c'est bien. Construire avec passion, c'est ce qui fait la différence."*  
+> — **Alaeddine Elouaddah**
+
