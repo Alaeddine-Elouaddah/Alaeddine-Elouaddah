@@ -12,9 +12,10 @@
 
 ---
 
-## 🎯 Objectif de carrière
+## 🔥 Ce qui me motive
 
-Je vise à devenir un **ingénieur logiciel expert en MERN Stack**, capable de créer des applications performantes, sécurisées et scalables. Je crois au **code propre, à l'impact utilisateur**, et à l'amélioration continue.
+Créer des applications utiles, résoudre des problèmes concrets et apprendre de nouvelles technologies chaque jour. Je crois en la puissance de la **curiosité**, de la **pratique** et du **partage** pour évoluer en tant que développeur.  
+Chaque ligne de code est un pas de plus vers mes rêves !
 
 ---
 
@@ -23,6 +24,7 @@ Je vise à devenir un **ingénieur logiciel expert en MERN Stack**, capable de c
 ### 🧠 Langages de programmation
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![Java](https://skillicons.dev/icons?i=java)
+![PHP](https://skillicons.dev/icons?i=php)
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 
@@ -79,4 +81,3 @@ Je vise à devenir un **ingénieur logiciel expert en MERN Stack**, capable de c
 
 > 🚀 *"Construire des projets, c'est bien. Construire avec passion, c'est ce qui fait la différence."*  
 > — **Alaeddine Elouaddah**
-
