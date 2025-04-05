@@ -64,6 +64,16 @@ Every line of code brings me closer to my dreams 💡
 
 ---
 
+## 📊 Profile Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alaeddine-Elouaddah&style=flat-square&color=22d3ee" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/Alaeddine-Elouaddah?style=flat-square&color=22d3ee" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/Alaeddine-Elouaddah?style=flat-square&color=22d3ee" alt="Followers" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
