@@ -23,7 +23,7 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 ## 🌟 Featured Projects
 
 - 🚗 [Vehicle Rental Management System](https://github.com/Alaeddine-Elouaddah/your-project)
-  > MERN Stack app for managing vehicle rentals with online booking and admin dashboard.
+  >  app for managing vehicle rentals with online booking and admin dashboard.
 
 - 📚 [Bookstore REST API](https://github.com/Alaeddine-Elouaddah/bookstore-api)
   > Node.js & Express API with MongoDB,JWT, Mongoose, and Joi validation.
