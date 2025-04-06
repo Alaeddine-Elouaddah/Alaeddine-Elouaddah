@@ -26,7 +26,7 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
   > MERN Stack app for managing vehicle rentals with online booking and admin dashboard.
 
 - 📚 [Bookstore REST API](https://github.com/Alaeddine-Elouaddah/bookstore-api)
-  > Node.js & Express API with MongoDB, Mongoose, and Joi validation.
+  > Node.js & Express API with MongoDB,JWT, Mongoose, and Joi validation.
 
 ---
 
