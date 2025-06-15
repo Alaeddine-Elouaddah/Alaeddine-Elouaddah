@@ -91,7 +91,7 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alaeddine-elouaddah-8a1058348/" target="_blank">
+  <a href="https://www.linkedin.com/in/alaeddine-elouaddah/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:alaeddineelouaddah09@gmail.com">
