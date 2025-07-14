@@ -1,32 +1,21 @@
 # 👋 Hi, I'm **Alaeddine Elouaddah**!
 
-🎓 Student at EST 
-💻 Passionate Full-Stack Developer (MERN Stack)  
-🚗 Currently building a Vehicle Rental Management System  
+🎓 Student at EST  
+💻 Passionate Full-Stack Developer  
+🚀 Currently building innovative web solutions  
 📍 Morocco  
 📫 Reach me at: [alaeddineelouaddah09@gmail.com](mailto:alaeddineelouaddah09@gmail.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Software+Craftsman;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;TypeScript+Enthusiast;Software+Craftsman;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🔥 What Drives Me
 
-I love building useful applications, solving real-world problems, and learning new technologies every day.  
-I believe in **curiosity**, **practice**, and **sharing** to grow as a developer.
-
----
-
-
-## 🌟 Featured Projects
-
-- 🚗 [Vehicle Rental Management System](https://github.com/Alaeddine-Elouaddah/your-project)
-  >  app for managing vehicle rentals with online booking and admin dashboard.
-
-- 📚 [Bookstore REST API](https://github.com/Alaeddine-Elouaddah/bookstore-api)
-  > Node.js & Express API with MongoDB,JWT, Mongoose, and Joi validation.
+I love building scalable applications, solving complex problems, and continuously expanding my technical knowledge.  
+I believe in **clean code**, **best practices**, and **continuous improvement** to deliver exceptional software.
 
 ---
 
@@ -34,12 +23,13 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 
 ### 🧠 Programming Languages
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
 
 ### 🌐 Frontend
 ![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -47,15 +37,16 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 ### 🖥 Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![PHP](https://skillicons.dev/icons?i=php)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 
 ### 💾 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
@@ -76,6 +67,7 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
+---
 
 ## 📊 Profile Insights
 
@@ -86,7 +78,6 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 </p>
 
 ---
-
 
 ## 🌐 Connect With Me
 
@@ -104,5 +95,5 @@ I believe in **curiosity**, **practice**, and **sharing** to grow as a developer
 
 ---
 
-> 🚀 *"Building projects is good. Building with passion is what makes the difference."*  
+> 🚀 *"The best way to predict the future is to implement it."*  
 > — **Alaeddine Elouaddah**
