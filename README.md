@@ -26,10 +26,10 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Java](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 ### 🌐 Frontend
 ![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -37,16 +37,14 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 ### 🖥 Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
 
 ### 💾 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
@@ -57,10 +55,6 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
-  
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=Alaeddine-Elouaddah&theme=tokyonight" alt="GitHub Streak"/>
   
   <br/>
 
