@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Alaeddine Elouaddah**!
 
-🎓 Student at EST Sidi Bennour  
+🎓 Student at EST 
 💻 Passionate Full-Stack Developer (MERN Stack)  
 🚗 Currently building a Vehicle Rental Management System  
 📍 Morocco  
