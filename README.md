@@ -37,6 +37,7 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 ### 🖥 Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![PHP](https://skillicons.dev/icons?i=php)
 
 ### 💾 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
