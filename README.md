@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Alaeddine Elouaddah**!
 
-🎓 Student at EST  
+🎓 Student at ENSIASD 
 💻 Passionate Full-Stack Developer  
 🚀 Currently building innovative web solutions  
 📍 Morocco  
