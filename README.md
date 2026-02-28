@@ -48,9 +48,9 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 
 ### 🏗 Architecture & APIs
 <p align="center">
-  <img src="https://img.shields.io/badge/GraphQL-FF5E00?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/REST-API-FF5E00?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/MVC-Architecture-FF5E00?style=for-the-badge&logo=architecture&logoColor=white" alt="MVC" />
+  ![GraphQL](https://skillicons.dev/icons?i=graphql)
+  ![REST](https://img.icons8.com/ios-filled/50/ff5e00/api-settings.png)  
+  ![MVC](https://img.icons8.com/ios-filled/50/ff5e00/model-view-controller.png)
 </p>
   
 
