@@ -46,9 +46,6 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 
 ---
 
-
----
-
 ### 🏗 Architecture & APIs
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
