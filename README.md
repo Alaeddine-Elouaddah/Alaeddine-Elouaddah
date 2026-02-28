@@ -66,13 +66,11 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
-
-## 🏆 GitHub Achievements
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaeddine-Elouaddah&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/Alaeddine-Elouaddah/Alaeddine-Elouaddah/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
