@@ -47,9 +47,11 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 ---
 
 ### 🏗 Architecture & APIs
-![GraphQL](https://skillicons.dev/icons?i=graphql)
-<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MVC-Architecture-8A2BE2?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphQL-FF5E00?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST-API-FF5E00?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/MVC-Architecture-FF5E00?style=for-the-badge&logo=architecture&logoColor=white" alt="MVC" />
+</p>
   
 
 ---
@@ -70,10 +72,7 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 ## 📌 Contribution Streak
 
 <p align="center">
-  <!-- Contribution Streak -->
   <img src="https://streak-stats.demolab.com?user=Alaeddine-Elouaddah&theme=tokyonight&hide_border=true" />
-  
-
 </p
 ---
 ## 🌐 Connect With Me
