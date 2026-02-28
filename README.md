@@ -67,16 +67,11 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
-  
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alaeddine-Elouaddah&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
