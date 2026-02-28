@@ -99,17 +99,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
-## 🔥 **Série de Contributions**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Alaeddine-Elouaddah&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
 
-## 🐍 **Mes Contributions**
-
-<div align="center">
-  <img src="https://github.com/Alaeddine-Elouaddah/Alaeddine-Elouaddah/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
 
 ## 🌐 **Me Contacter**
 
