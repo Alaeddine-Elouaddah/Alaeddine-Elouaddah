@@ -48,11 +48,10 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 
 ### 🏗 Architecture & APIs
 <p align="center">
-  ![GraphQL](https://skillicons.dev/icons?i=graphql)
-  ![REST](https://img.icons8.com/ios-filled/50/ff5e00/api-settings.png)  
-  ![MVC](https://img.icons8.com/ios-filled/50/ff5e00/model-view-controller.png)
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50"/>
+  <img src="https://img.shields.io/badge/REST-API-FF5E00?style=for-the-badge&logoColor=white" alt="REST API" height="50"/>
+  <img src="https://img.shields.io/badge/MVC-Architecture-FF5E00?style=for-the-badge&logoColor=white" alt="MVC" height="50"/>
 </p>
-  
 
 ---
 
