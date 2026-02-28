@@ -47,8 +47,9 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 ---
 
 ### 🏗 Architecture & APIs
-![Spring](https://skillicons.dev/icons?i=spring)
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
+<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MVC-Architecture-8A2BE2?style=for-the-badge" />
   
 
 ---
@@ -66,17 +67,13 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
-## 📌 GitHub Insights
+## 📌 Contribution Streak
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaeddine-Elouaddah&theme=tokyonight&no-frame=true&row=1&column=6" />
-
   <!-- Contribution Streak -->
   <img src="https://streak-stats.demolab.com?user=Alaeddine-Elouaddah&theme=tokyonight&hide_border=true" />
   
-  <!-- Top Languages Donut -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=donut&theme=tokyonight" />
+
 </p
 ---
 ## 🌐 Connect With Me
