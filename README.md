@@ -41,24 +41,18 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 ### 🖥 Backend Languages
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![PHP](https://skillicons.dev/icons?i=php)
-![Java](https://skillicons.dev/icons?i=java)
+![Express](https://skillicons.dev/icons?i=express)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ---
 
-### ⚙️ Backend Frameworks
-![Express](https://skillicons.dev/icons?i=express)
-![Spring](https://skillicons.dev/icons?i=spring)
 
 ---
 
 ### 🏗 Architecture & APIs
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
-
-- 🔄 RESTful APIs  
-- 🔎 GraphQL  
-- 🏗 MVC Architecture  
-- 🔐 Secure & Scalable Backend Design  
+  
 
 ---
 
