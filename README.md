@@ -70,17 +70,7 @@
   <img src="https://skillicons.dev/icons?i=git,postman,linux,vscode" />
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaeddine-Elouaddah&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaeddine-Elouaddah&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-
-</div>
 
 ---
 
@@ -90,13 +80,7 @@
   <img src="https://streak-stats.demolab.com?user=Alaeddine-Elouaddah&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
----
 
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alaeddine-Elouaddah/Alaeddine-Elouaddah/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
 
 ---
 
