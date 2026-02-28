@@ -15,7 +15,7 @@
 ## 🔥 What Drives Me
 
 I love building scalable applications, solving complex problems, and continuously expanding my technical knowledge.  
-I believe in **clean code**, **best practices**, and **continuous improvement** to deliver exceptional software.
+I believe in **clean code**, **best practices**, and **continuous improvement**.
 
 ---
 
@@ -38,19 +38,23 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 
 ---
 
-### 🖥 Backend
+### 🖥 Backend Languages
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
 ![PHP](https://skillicons.dev/icons?i=php)
+![Java](https://skillicons.dev/icons?i=java)
 
 ---
 
-### 🏗 Backend Architecture & APIs
+### ⚙️ Backend Frameworks
+![Express](https://skillicons.dev/icons?i=express)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+---
+
+### 🏗 Architecture & APIs
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![GraphQL](https://skillicons.dev/icons?i=graphql)
-![Java](https://skillicons.dev/icons?i=java)
 
-- 🚀 Spring Boot  
 - 🔄 RESTful APIs  
 - 🔎 GraphQL  
 - 🏗 MVC Architecture  
@@ -82,16 +86,6 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaeddine-Elouaddah&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
-
----
-
-## 📊 Profile Insights
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alaeddine-Elouaddah&style=flat-square&color=22d3ee" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/Alaeddine-Elouaddah?style=flat-square&color=22d3ee" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/followers/Alaeddine-Elouaddah?style=flat-square&color=22d3ee" alt="Followers" />
-</p>
 
 ---
 
