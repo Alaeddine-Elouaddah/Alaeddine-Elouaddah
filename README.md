@@ -7,7 +7,7 @@
 📫 Reach me at: [alaeddineelouaddah09@gmail.com](mailto:alaeddineelouaddah09@gmail.com)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;TypeScript+Enthusiast;Software+Craftsman;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;TypeScript+Enthusiast;Software+Craftsman;Spring+Boot+Developer;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,10 +34,17 @@ I believe in **clean code**, **best practices**, and **continuous improvement** 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-### 🖥 Backend
+### 🖥 Backend & Architecture
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
+![Spring](https://skillicons.dev/icons?i=spring)
 ![PHP](https://skillicons.dev/icons?i=php)
+
+- 🚀 **Spring Boot**
+- 🔄 **RESTful APIs**
+- 🔎 **GraphQL**
+- 🏗 **MVC Architecture**
+- 🔐 Secure & Scalable Backend Design
 
 ### 💾 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
