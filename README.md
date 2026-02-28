@@ -56,13 +56,7 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
   <img src="https://img.shields.io/badge/MVC-Architecture-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="MVC" height="40" style="display: inline-block; vertical-align: middle; margin: 0 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px;">
 </p>
 
-<!-- Version alternative avec hover effects et container stylisé -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; text-align: center;">
-  <h3 style="color: white; margin-bottom: 15px; font-family: Arial, sans-serif;">Technologies & Architecture</h3>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
 
-
----
 
 ### 💾 Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
