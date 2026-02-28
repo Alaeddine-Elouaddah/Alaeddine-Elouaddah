@@ -48,9 +48,42 @@ I believe in **clean code**, **best practices**, and **continuous improvement**.
 
 ### 🏗 Architecture & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50"/>
-  <img src="https://img.shields.io/badge/REST-API-FF5E00?style=for-the-badge&logoColor=white" alt="REST API" height="50"/>
-  <img src="https://img.shields.io/badge/MVC-Architecture-FF5E00?style=for-the-badge&logoColor=white" alt="MVC" height="50"/>
+  <!-- GraphQL Badge -->
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="40" style="display: inline-block; vertical-align: middle; margin: 0 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px;">
+  
+  <!-- REST API Badge (Les Deux) -->
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" height="40" style="display: inline-block; vertical-align: middle; margin: 0 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px;">
+  
+  <!-- MVC Architecture Badge -->
+  <img src="https://img.shields.io/badge/MVC-Architecture-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="MVC" height="40" style="display: inline-block; vertical-align: middle; margin: 0 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px;">
+</p>
+
+<!-- Version alternative avec hover effects et container stylisé -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0; text-align: center;">
+  <h3 style="color: white; margin-bottom: 15px; font-family: Arial, sans-serif;">Technologies & Architecture</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+ 
+    <div style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&logoWidth=30" alt="GraphQL" height="45" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    </div>
+    
+    <!-- REST API Badge avec effet hover et texte "Les Deux" -->
+    <div style="position: relative; transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/REST%20API%20%7C%20Les%20Deux-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=30" alt="REST API" height="45" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    </div>
+    
+    <!-- MVC Architecture Badge avec effet hover -->
+    <div style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/MVC-Architecture-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoWidth=30" alt="MVC" height="45" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+    </div>
+  </div>
+</div>
+
+<!-- Version simple et élégante avec couleurs personnalisées -->
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; background: #f8f9fa; padding: 20px; border-radius: 50px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); max-width: 600px; margin: 20px auto;">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&logoWidth=30" alt="GraphQL" height="40" style="border-radius: 5px;">
+  <img src="https://img.shields.io/badge/REST%20API%20%7C%20Les%20Deux-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoWidth=30" alt="REST API" height="40" style="border-radius: 5px;">
+  <img src="https://img.shields.io/badge/MVC-Architecture-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&logoWidth=30" alt="MVC" height="40" style="border-radius: 5px;">
 </p>
 
 ---
