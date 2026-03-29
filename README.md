@@ -2,8 +2,9 @@
 # 👋 Hi, I'm **Alaeddine Elouaddah**!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35](https://camo.githubusercontent.com/514ca9da884d244f2b54b5ab55db1cf3771b25a5978ac60f4a07e3fcf69421ed/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a716d75707554565a5961515835733039342f67697068792e676966)"/>
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+🚀;Passionate+about+Clean+Code+✨;React+%7C+Spring+Boot+%7C+TypeScript;Always+Learning+📚;Building+Scalable+Web+Apps+💻" alt="Typing SVG" />
